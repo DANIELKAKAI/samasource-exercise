@@ -1,6 +1,5 @@
 import json
 import sys
-from PIL import Image, ImageDraw
 
 
 def read_file(file_name):
